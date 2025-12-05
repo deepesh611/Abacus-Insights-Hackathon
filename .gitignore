@@ -1,1 +1,12 @@
+.env
+.venv
+.vscode
+
 trial
+test*.py
+check*.py
+diag*.py
+verify*.py
+find*.py
+
+__pycache__

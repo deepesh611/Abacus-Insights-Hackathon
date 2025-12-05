@@ -1,0 +1,9 @@
+tqdm
+numpy
+pandas
+plotly
+openai
+streamlit
+faiss-cpu
+python-dotenv
+sentence-transformers
